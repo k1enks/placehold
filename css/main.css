@@ -1,0 +1,34 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  max-width: 100%; /* This ensures an image never breaks it's container */
+}
+
+section{
+  width:100%;
+  padding:20vh 20vw;
+  text-align: center;
+}
+
+.fa-trademark{
+  font-size: 6em;
+  color: RGBA(33, 26, 29, 1.00);
+  padding-top:3rem;
+}
+
+h1{
+  font-size: 2em;
+  font-family: 'Lato', sans-serif;
+  color: RGBA(33, 26, 29, 1.00);
+
+}
+
+h2{
+  font-family: 'Cutive Mono', monospace;
+  color: RGBA(33, 26, 29, 1.00);
+  padding-top:3rem;
+}
